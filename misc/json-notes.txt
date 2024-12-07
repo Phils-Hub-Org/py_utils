@@ -1,0 +1,5 @@
+json serialization (turns dict into str) / deserialization (turns str into dict)
+json.dumps(dict) / json.loads(str)
+
+encoding / decoding: turning str to bytes or bytes to str
+string.encode('utf-8') or bytes.decode('utf-8')

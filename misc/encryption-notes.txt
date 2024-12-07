@@ -1,0 +1,7 @@
+SHA-1: 40 characters (160 bits)
+SHA-224: 56 characters (224 bits)
+SHA-256: 64 characters (256 bits)
+SHA-384: 96 characters (384 bits)
+SHA-512: 128 characters (512 bits)
+
+bcrypt: 60 characters (312 bits)
